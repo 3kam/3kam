@@ -1,1 +1,1 @@
-<img src="ProfileBanner.png" width="100%">
+<img src="ProfileBanner2.png" width="100%">
